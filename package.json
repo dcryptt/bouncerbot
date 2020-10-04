@@ -1,0 +1,14 @@
+{
+  "name": "bouncerbot",
+  "version": "1.0.0",
+  "description": "bouncer discord bot for banning spammers and kicking users",
+  "main": "bouncerbot.js",
+  "author": "dcryptt",
+  "scripts": {
+    "start": "nodemon ./bouncerbot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.0",
+    "nodemon": "^2.0.4"
+  }
+}
