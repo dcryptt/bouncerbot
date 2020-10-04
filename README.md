@@ -32,9 +32,10 @@ npm install
 ### 3. Bouncer bot
 
 Edit files with own configuration:
-    - botSettings.json
-      - token: new generated token from own bot created in setup
-      - guild_id: set ID of the Mochimo server (currently set)
+
+- botSettings.json
+  - token: new generated token from own bot created in setup
+  - guild_id: set ID of the Mochimo server (currently set)
 
 ### 4. Run the bot!
 ```
